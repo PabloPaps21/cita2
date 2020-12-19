@@ -1,3 +1,7 @@
+# Aplicación para administrar citas en veterinaria
+Aplicación que simula la administración de citas de una veterinaria.
+
+Aplicación web realizada en React y guarda los datos en local storage
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
